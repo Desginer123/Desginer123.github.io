@@ -1,0 +1,39 @@
+
+
+/* Start:/bitrix/templates/laboratory/template_styles.css?1610107291681*/
+body {
+ background: #7882FC;
+}
+
+.news-list {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-column-gap: 20px;
+        padding: 20px;
+}
+
+.news-list .news-item {
+ padding: 20px;
+ border-radius: 5px;
+        transition: all 0.3s ease-in-out;
+        cursor: pointer;
+}
+
+.news-list .news-item a {
+        color: #01CDA2;
+        text-align: center;
+}
+
+.news-item:hover {
+            transform: translateY(-10px);
+            transition: all 0.3s ease-in-out;
+            box-shadow: 0px 7px 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+.news-item:hover  #text {
+        color: #fff;
+        background-color: #01CDA2;
+        transition: all 0.3s ease-in-out;
+}
+/* End */
+/* /bitrix/templates/laboratory/template_styles.css?1610107291681 */

@@ -1,0 +1,38 @@
+
+
+/* Start:/bitrix/templates/laboratory/template_styles.css?16101071181042*/
+.news-list {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-column-gap: 20px;
+        padding: 20px;
+}
+
+.news-list .news-item {
+ border-radius: 5px;
+        transition: all 0.3s ease-in-out;
+        cursor: pointer;
+}
+
+.news-list .news-item a {
+        margin-top: -4px; /* какой то баг, что между картинкой и названием есть место в четыре пикселя, хотя нигде оно не задавалось и не наблюдается */
+        background: #fff;
+        padding: 12px 12px 24px 17px;
+        transition: all 0.3s ease-in-out;
+        border-radius: 5px;
+        height: 105px;
+}
+
+.news-item:hover 
+            transform: translateY(-10px);
+            transition: all 0.3s ease-in-out;
+            box-shadow: 0px 7px 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+.news-item:hover  .direction__item__title {
+                color: $white-color;
+                background-color: $main-color;
+                transition: all 0.3s ease-in-out;
+}
+/* End */
+/* /bitrix/templates/laboratory/template_styles.css?16101071181042 */

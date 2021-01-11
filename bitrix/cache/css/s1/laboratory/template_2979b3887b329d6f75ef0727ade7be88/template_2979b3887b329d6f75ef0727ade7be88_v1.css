@@ -1,0 +1,65 @@
+
+
+/* Start:/bitrix/templates/laboratory/template_styles.css?16101180751051*/
+body {
+ background: #4c4c4c;
+ margin: 0;
+}
+
+.news-list {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-column-gap: 20px;
+        padding: 20px;
+}
+
+.news-list .news-item {
+ padding: 20px;
+ border-radius: 5px;
+        transition: all 0.3s ease-in-out;
+        cursor: pointer;
+}
+
+.news-list .news-item a {
+        color: #01CDA2;
+        text-align: center;
+}
+
+.news-detail {
+        color: #01CDA2;
+        text-align: center;
+        background: #fff;
+         padding: 20px;
+        border-radius: 5px;
+        transition: all 0.3s ease-in-out;
+        cursor: pointer;
+}
+
+.news-item:hover {
+            transform: translateY(-10px);
+            transition: all 0.3s ease-in-out;
+            box-shadow: 0px 7px 20px 0px rgba(0, 0, 0, 0.2);
+            background: #7882FC;
+}
+
+.news-item {
+        color: #fff;
+        transition: all 0.3s ease-in-out;
+}
+
+
+p a[href^="/"] {
+        color: #fff;
+        font-size: 24px;
+}
+
+
+.filter {
+		padding: 20px;
+		font-size: 24px;
+		color: #fff;
+		list-style-type: none;
+}
+
+/* End */
+/* /bitrix/templates/laboratory/template_styles.css?16101180751051 */

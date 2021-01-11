@@ -1,0 +1,493 @@
+2021-01-06 15:20:55 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609935655/mcart.xls/updater9.1.0.php': CopyFiles(install/modules, modules)
+2021-01-06 15:21:23 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609935661/mcart.xls/updater10.0.0.php': CopyFiles(, /bitrix/modules/mcart.xls/)
+2021-01-06 15:22:09 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609935728/mcart.xls/updater10.0.1.php': CopyFiles(, /bitrix/modules/mcart.xls/)
+2021-01-06 15:22:27 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609935746/mcart.xls/updater10.0.4.php': CopyFiles(, /bitrix/modules/mcart.xls/)
+2021-01-06 15:25:21 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 15:25:21 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 15:25:21 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.300&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.300&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1150&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2021-01-06 15:25:21 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 15:25:22 -  - TIME GetUpdatesList(request) 0.731 sec
+2021-01-06 15:25:22 -  - exec CUpdateClient::ParseServerData
+2021-01-06 15:26:04 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 15:26:04 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 15:26:04 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.300&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.300&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1150&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2021-01-06 15:26:04 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 15:26:05 -  - TIME GetUpdatesList(request) 0.334 sec
+2021-01-06 15:26:05 -  - exec CUpdateClient::ParseServerData
+2021-01-06 15:31:25 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609936284/mcart.xls/updater10.1.0.php': CopyFiles(install/modules, modules)
+2021-01-06 15:32:44 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 15:32:44 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 15:32:44 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.300&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.300&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1150&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2021-01-06 15:32:44 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 15:32:45 -  - TIME GetUpdatesList(request) 0.237 sec
+2021-01-06 15:32:45 -  - exec CUpdateClient::ParseServerData
+2021-01-06 15:32:46 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 15:32:46 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 15:32:46 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.300&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.300&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1150&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2021-01-06 15:32:46 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 15:32:46 -  - TIME GetUpdatesList(request) 0.27 sec
+2021-01-06 15:32:46 -  - exec CUpdateClient::ParseServerData
+2021-01-06 15:43:38 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 15:43:38 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 15:43:38 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.300&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.300&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1150&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2021-01-06 15:43:38 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 15:43:40 -  - TIME GetUpdatesList(request) 1.127 sec
+2021-01-06 15:43:40 -  - exec CUpdateClient::ParseServerData
+2021-01-06 16:04:59 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 16:05:00 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 16:05:00 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.300&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.300&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1150&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2021-01-06 16:05:00 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 16:05:01 -  - TIME GetUpdatesList(request) 1.391 sec
+2021-01-06 16:05:01 -  - exec CUpdateClient::ParseServerData
+2021-01-06 16:21:13 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 16:21:13 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 16:21:13 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.300&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.300&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1150&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2021-01-06 16:21:13 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 16:21:19 -  - TIME GetUpdatesList(request) 5.641 sec
+2021-01-06 16:21:19 -  - exec CUpdateClient::ParseServerData
+2021-01-06 16:49:25 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609940965/mcart.xls/updater9.1.0.php': CopyFiles(install/modules, modules)
+2021-01-06 16:49:48 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609940974/mcart.xls/updater10.0.0.php': CopyFiles(, /bitrix/modules/mcart.xls/)
+2021-01-06 16:50:19 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609941018/mcart.xls/updater10.0.1.php': CopyFiles(, /bitrix/modules/mcart.xls/)
+2021-01-06 16:50:28 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609941028/mcart.xls/updater10.0.4.php': CopyFiles(, /bitrix/modules/mcart.xls/)
+2021-01-06 16:51:05 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 16:51:05 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 16:51:05 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.300&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.300&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1150&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2021-01-06 16:51:05 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 16:51:05 -  - TIME GetUpdatesList(request) 0.276 sec
+2021-01-06 16:51:05 -  - exec CUpdateClient::ParseServerData
+2021-01-06 16:51:06 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 16:51:06 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 16:51:06 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.300&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.300&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1150&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2021-01-06 16:51:06 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 16:51:06 -  - TIME GetUpdatesList(request) 0.334 sec
+2021-01-06 16:51:06 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:01:31 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 17:01:31 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:01:31 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.300&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.300&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1150&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2021-01-06 17:01:31 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:01:32 -  - TIME GetUpdatesList(request) 0.394 sec
+2021-01-06 17:01:32 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:08:06 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 17:08:06 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:08:06 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.300&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.300&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1150&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2021-01-06 17:08:07 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:08:07 -  - TIME GetUpdatesList(request) 0.37 sec
+2021-01-06 17:08:07 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:00 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:00 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:09:00 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.300&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.300&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1150&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:09:00 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:09:01 -  - TIME LoadModulesUpdates(request) 0.323 sec
+2021-01-06 17:09:01 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:01 - S - STEP
+2021-01-06 17:09:01 - LMU01 - LoadModulesUpdates-Step
+2021-01-06 17:09:01 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:01 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:01 -  - loadFile
+2021-01-06 17:09:01 - U - RETURN
+2021-01-06 17:09:01 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:09:02 -  - TIME UnGzipArchive 0.141 sec
+2021-01-06 17:09:02 -  - TIME UpdateStepModules 0.056 sec
+2021-01-06 17:09:02 - UPD_SUCCESS - Updated: main (20.200.350)<br><li>Исправлена проблема, когда PHPSESSID мог изменяться у аутентифицированного пользователя.
+2021-01-06 17:09:02 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:02 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:09:02 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.350&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.350&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1150&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:09:02 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:09:03 -  - TIME LoadModulesUpdates(request) 0.297 sec
+2021-01-06 17:09:03 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:03 - S - STEP
+2021-01-06 17:09:03 - LMU01 - LoadModulesUpdates-Step
+2021-01-06 17:09:03 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:03 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:03 -  - loadFile
+2021-01-06 17:09:04 - U - RETURN
+2021-01-06 17:09:04 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:09:04 -  - TIME UnGzipArchive 0.614 sec
+2021-01-06 17:09:04 - CSURUS1 - Run updater '/bitrix/updates/update_m1609942144/main/updater20.200.400.php'
+2021-01-06 17:09:05 -  - TIME UpdateStepModules 0.403 sec
+2021-01-06 17:09:05 - UPD_SUCCESS - Updated: main (20.200.400)<br><li>Штатный обработчик ошибок теперь выдает статус \"500 Internal Server Error\" (включая ошибки БД). 
+2021-01-06 17:09:06 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:06 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:09:06 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.400&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.400&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1150&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:09:06 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:09:06 -  - TIME LoadModulesUpdates(request) 0.232 sec
+2021-01-06 17:09:06 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:06 - S - STEP
+2021-01-06 17:09:06 - LMU01 - LoadModulesUpdates-Step
+2021-01-06 17:09:06 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:06 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:06 -  - loadFile
+2021-01-06 17:09:07 - U - RETURN
+2021-01-06 17:09:07 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:09:07 -  - TIME UnGzipArchive 0.064 sec
+2021-01-06 17:09:07 -  - TIME UpdateStepModules 0.053 sec
+2021-01-06 17:09:07 - UPD_SUCCESS - Updated: main (20.200.500)<br><li>Исправлена ошибка в работе фильтра при одновременной фильтрации по пользовательским полям разных сущностей.
+2021-01-06 17:09:07 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:07 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:09:08 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.500&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.500&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1150&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:09:08 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:09:08 -  - TIME LoadModulesUpdates(request) 0.359 sec
+2021-01-06 17:09:08 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:08 - S - STEP
+2021-01-06 17:09:08 - LMU01 - LoadModulesUpdates-Step
+2021-01-06 17:09:08 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:08 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:08 -  - loadFile
+2021-01-06 17:09:09 - U - RETURN
+2021-01-06 17:09:09 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:09:09 -  - TIME UnGzipArchive 0.387 sec
+2021-01-06 17:09:09 - CSURUS1 - Run updater '/bitrix/updates/update_m1609942149/main/updater20.200.550.php'
+2021-01-06 17:09:10 -  - TIME UpdateStepModules 0.275 sec
+2021-01-06 17:09:10 - UPD_SUCCESS - Updated: main (20.200.550)<br><li>Исправлена ошибка получения данных о видео с youtube.com. <li>Исправлена ошибка в обработчике ошибок. 
+2021-01-06 17:09:10 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:10 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:09:10 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1150&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:09:10 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:09:11 -  - TIME LoadModulesUpdates(request) 0.224 sec
+2021-01-06 17:09:11 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:11 - S - STEP
+2021-01-06 17:09:11 - LMU01 - LoadModulesUpdates-Step
+2021-01-06 17:09:11 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:11 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:11 -  - loadFile
+2021-01-06 17:09:12 - U - RETURN
+2021-01-06 17:09:12 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:09:12 -  - TIME UnGzipArchive 0.726 sec
+2021-01-06 17:09:13 -  - TIME UpdateStepModules 0.672 sec
+2021-01-06 17:09:13 - UPD_SUCCESS - Updated: iblock (20.0.1200)<br><li>Служебное обновление для Битрикс24.
+2021-01-06 17:09:14 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:14 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:09:14 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.400&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:09:14 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:09:14 -  - TIME LoadModulesUpdates(request) 0.324 sec
+2021-01-06 17:09:14 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:14 - S - STEP
+2021-01-06 17:09:14 - LMU01 - LoadModulesUpdates-Step
+2021-01-06 17:09:15 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:15 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:15 -  - loadFile
+2021-01-06 17:09:15 - U - RETURN
+2021-01-06 17:09:15 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:09:15 -  - TIME UnGzipArchive 0.28 sec
+2021-01-06 17:09:15 -  - TIME UpdateStepModules 0.115 sec
+2021-01-06 17:09:15 - UPD_SUCCESS - Updated: seo (20.0.500)<br><li>Добавлен сервис для \"ЮKassa\": работа с веб-хуками и профилем. <li>Классы для работы с \"Яндекс.Кассой\" объявлены устаревшими.
+2021-01-06 17:09:16 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:16 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:09:16 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.100.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:09:16 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:09:16 -  - TIME LoadModulesUpdates(request) 0.253 sec
+2021-01-06 17:09:16 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:16 - S - STEP
+2021-01-06 17:09:16 - LMU01 - LoadModulesUpdates-Step
+2021-01-06 17:09:17 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:17 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:17 -  - loadFile
+2021-01-06 17:09:17 - U - RETURN
+2021-01-06 17:09:17 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:09:17 -  - TIME UnGzipArchive 0.171 sec
+2021-01-06 17:09:17 -  - TIME UpdateStepModules 0.175 sec
+2021-01-06 17:09:18 - UPD_SUCCESS - Updated: clouds (20.200.0)<br><li>Улучшен интерфейс подключения к s3-совместимым хранилищам. 
+2021-01-06 17:09:18 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:18 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:09:18 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.887&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:09:18 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:09:18 -  - TIME LoadModulesUpdates(request) 0.248 sec
+2021-01-06 17:09:18 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:18 - S - STEP
+2021-01-06 17:09:18 - LMU01 - LoadModulesUpdates-Step
+2021-01-06 17:09:19 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:19 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:19 -  - loadFile
+2021-01-06 17:09:21 - U - RETURN
+2021-01-06 17:09:21 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:09:24 -  - TIME UnGzipArchive 3.065 sec
+2021-01-06 17:09:24 - CSURUS1 - Run updater '/bitrix/updates/update_m1609942161/ui/updater20.5.900.php'
+2021-01-06 17:09:24 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609942161/ui/updater20.5.900.php': CopyFiles(install/components, components)
+2021-01-06 17:09:24 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609942161/ui/updater20.5.900.php': CopyFiles(install/js, js)
+2021-01-06 17:09:28 -  - TIME UpdateStepModules 4.011 sec
+2021-01-06 17:09:28 - UPD_SUCCESS - Updated: ui (20.5.900)<br><li>Незначительные исправления и улучшения.
+2021-01-06 17:09:28 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:28 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:09:29 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.5.900&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:09:29 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:09:29 -  - TIME LoadModulesUpdates(request) 0.219 sec
+2021-01-06 17:09:29 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:29 - S - STEP
+2021-01-06 17:09:29 - LMU01 - LoadModulesUpdates-Step
+2021-01-06 17:09:29 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:29 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:29 -  - loadFile
+2021-01-06 17:09:31 - U - RETURN
+2021-01-06 17:09:31 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:09:34 -  - TIME UnGzipArchive 2.792 sec
+2021-01-06 17:09:34 - CSURUS1 - Run updater '/bitrix/updates/update_m1609942171/ui/updater20.100.0.php'
+2021-01-06 17:09:34 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609942171/ui/updater20.100.0.php': CopyFiles(install/components, components)
+2021-01-06 17:09:34 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609942171/ui/updater20.100.0.php': CopyFiles(install/js, js)
+2021-01-06 17:09:39 -  - TIME UpdateStepModules 5.378 sec
+2021-01-06 17:09:39 - UPD_SUCCESS - Updated: ui (20.100.0)<br><li>Исправлена кодировка в разделе учета рабочего времени/структуры компании/странице пользователя. <li>Исправлена верстка карточки RPA при длинном названии заголовка. <li>Исправлена ошибка в ui.entity-editor для поля типа number.
+2021-01-06 17:09:40 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:40 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:09:40 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.100.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:09:40 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:09:40 -  - TIME LoadModulesUpdates(request) 0.255 sec
+2021-01-06 17:09:40 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:40 - S - STEP
+2021-01-06 17:09:40 - LMU01 - LoadModulesUpdates-Step
+2021-01-06 17:09:41 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:41 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:41 -  - loadFile
+2021-01-06 17:09:43 - U - RETURN
+2021-01-06 17:09:43 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:09:47 -  - TIME UnGzipArchive 3.972 sec
+2021-01-06 17:09:47 - CSURUS1 - Run updater '/bitrix/updates/update_m1609942183/ui/updater20.200.0.php'
+2021-01-06 17:09:47 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609942183/ui/updater20.200.0.php': CopyFiles(install/components, components)
+2021-01-06 17:09:48 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609942183/ui/updater20.200.0.php': CopyFiles(install/js, js)
+2021-01-06 17:09:55 -  - TIME UpdateStepModules 7.215 sec
+2021-01-06 17:09:55 - UPD_SUCCESS - Updated: ui (20.200.0)<br><li>Исправление ошибок и незначительные доработки.
+2021-01-06 17:09:55 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:55 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:09:55 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.150&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:09:55 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:09:56 -  - TIME LoadModulesUpdates(request) 0.27 sec
+2021-01-06 17:09:56 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:56 - S - STEP
+2021-01-06 17:09:56 - LMU01 - LoadModulesUpdates-Step
+2021-01-06 17:09:56 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:56 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:56 -  - loadFile
+2021-01-06 17:09:57 - U - RETURN
+2021-01-06 17:09:57 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:09:57 -  - TIME UnGzipArchive 0.412 sec
+2021-01-06 17:09:57 - CSURUS1 - Run updater '/bitrix/updates/update_m1609942197/rest/updater20.50.200.php'
+2021-01-06 17:09:57 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609942197/rest/updater20.50.200.php': CopyFiles(install/components, components)
+2021-01-06 17:09:58 -  - TIME UpdateStepModules 0.702 sec
+2021-01-06 17:09:58 - UPD_SUCCESS - Updated: rest (20.50.200)<br><li>Незначительные изменения.
+2021-01-06 17:09:58 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:58 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:09:58 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.4.850&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:09:58 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:09:59 -  - TIME LoadModulesUpdates(request) 0.388 sec
+2021-01-06 17:09:59 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:59 - S - STEP
+2021-01-06 17:09:59 - LMU01 - LoadModulesUpdates-Step
+2021-01-06 17:09:59 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:09:59 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:09:59 -  - loadFile
+2021-01-06 17:10:00 - U - RETURN
+2021-01-06 17:10:00 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:10:00 -  - TIME UnGzipArchive 0.088 sec
+2021-01-06 17:10:00 - CSURUS1 - Run updater '/bitrix/updates/update_m1609942200/landing/updater20.4.855.php'
+2021-01-06 17:10:00 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609942200/landing/updater20.4.855.php': CopyFiles(install/templates, templates)
+2021-01-06 17:10:00 -  - TIME UpdateStepModules 0.14 sec
+2021-01-06 17:10:00 - UPD_SUCCESS - Updated: landing (20.4.855)<br><li>Исправлены незначительные ошибки.
+2021-01-06 17:10:01 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:10:01 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:10:01 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.4.855&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:10:01 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:10:01 -  - TIME LoadModulesUpdates(request) 0.228 sec
+2021-01-06 17:10:01 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:10:01 - S - STEP
+2021-01-06 17:10:01 - LMU01 - LoadModulesUpdates-Step
+2021-01-06 17:10:02 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:10:02 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:10:02 -  - loadFile
+2021-01-06 17:10:04 - U - RETURN
+2021-01-06 17:10:04 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:10:30 -  - TIME UnGzipArchive 25.972 sec
+2021-01-06 17:10:32 - CSURUS1 - Run updater '/bitrix/updates/update_m1609942204/landing/updater20.5.0.php'
+2021-01-06 17:10:32 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609942204/landing/updater20.5.0.php': CopyFiles(install/blocks, blocks)
+2021-01-06 17:10:33 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609942204/landing/updater20.5.0.php': CopyFiles(install/components, components)
+2021-01-06 17:10:38 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609942204/landing/updater20.5.0.php': CopyFiles(install/templates, templates)
+2021-01-06 17:10:38 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609942204/landing/updater20.5.0.php': CopyFiles(install/images, images)
+2021-01-06 17:10:38 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609942204/landing/updater20.5.0.php': CopyFiles(install/js, js)
+2021-01-06 17:11:16 -  - TIME UpdateStepModules 44.235 sec
+2021-01-06 17:11:16 - UPD_SUCCESS - Updated: landing (20.5.0)<br><li>Добавлен новый редактор CRM-форм. <li>Миграция существующих блоков CRM-форм на новый загрузчик. <li>Корпоративный цвет сайта. <li>Настройки сайтов и страниц теперь автоматически применяются к опубликованной версии (опция включения поведения вынесена в настройки модуля). <li>Улучшена вставка текста в редакторе. <li>В настройках согласия с Cookies добавлена возможность только информирования посетителя. <li>Исправлены в ошибке импорта. <li>Исправлены прочие незначительные ошибки.
+2021-01-06 17:11:17 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:11:17 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:11:17 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.5.0&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:11:17 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:11:19 -  - TIME LoadModulesUpdates(request) 2.146 sec
+2021-01-06 17:11:19 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:11:19 - S - STEP
+2021-01-06 17:11:19 - LMU01 - LoadModulesUpdates-Step
+2021-01-06 17:11:20 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:11:20 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:11:20 -  - loadFile
+2021-01-06 17:11:20 - U - RETURN
+2021-01-06 17:11:20 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:11:21 -  - TIME UnGzipArchive 0.365 sec
+2021-01-06 17:11:21 - CSURUS1 - Run updater '/bitrix/updates/update_m1609942280/landing/updater20.5.50.php'
+2021-01-06 17:11:21 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609942280/landing/updater20.5.50.php': CopyFiles(install/js, js)
+2021-01-06 17:11:21 -  - TIME UpdateStepModules 0.644 sec
+2021-01-06 17:11:21 - UPD_SUCCESS - Updated: landing (20.5.50)<br><li>Исправлена ошибка, из за которой иконки в карточках могли сохраняться некорректно.
+2021-01-06 17:11:22 -  - exec CUpdateClient::LoadModulesUpdates
+2021-01-06 17:11:22 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:11:22 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.5.50&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:11:22 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:11:22 -  - TIME LoadModulesUpdates(request) 0.302 sec
+2021-01-06 17:11:22 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:11:22 - STEP - Finish - NOUPDATES
+2021-01-06 17:11:22 - STEP - Finish - NOUPDATES
+2021-01-06 17:11:28 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 17:11:28 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:11:28 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.5.50&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:11:28 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:11:28 -  - TIME GetUpdatesList(request) 0.239 sec
+2021-01-06 17:11:29 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:11:36 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 17:11:36 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:11:36 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.5.50&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:11:36 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:11:36 -  - TIME GetUpdatesList(request) 0.251 sec
+2021-01-06 17:11:36 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:11:37 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 17:11:37 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:11:37 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.5.50&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:11:37 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:11:38 -  - TIME GetUpdatesList(request) 0.244 sec
+2021-01-06 17:11:38 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:11:49 -  - exec CUpdateClient::LoadLangsUpdates
+2021-01-06 17:11:49 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:11:49 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.5.50&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_en=&bitl_ru=&requested_langs=ua%2Cla%2Cbr%2Cfr%2Cpl&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2021-01-06 17:11:49 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:11:50 -  - TIME LoadLangsUpdates(request) 0.457 sec
+2021-01-06 17:11:50 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:11:50 - S - STEP
+2021-01-06 17:11:50 - LLU01 - LoadLangsUpdates-Step
+2021-01-06 17:11:50 -  - exec CUpdateClient::LoadLangsUpdates
+2021-01-06 17:11:50 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:11:50 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:11:50 -  - loadLangFileBx
+2021-01-06 17:11:51 - DOWNLOAD - Time - 1.0772211551666 sec
+2021-01-06 17:11:51 - U - RETURN
+2021-01-06 17:11:51 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:12:19 -  - TIME UnGzipArchive 27.751 sec
+2021-01-06 17:13:18 -  - TIME UpdateLangs 58.879 sec
+2021-01-06 17:13:18 - UPD_SUCCESS - Updated: Украинский
+2021-01-06 17:13:19 -  - exec CUpdateClient::LoadLangsUpdates
+2021-01-06 17:13:19 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:13:19 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.5.50&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_en=&bitl_ru=&bitl_ua=20190307&requested_langs=ua%2Cla%2Cbr%2Cfr%2Cpl&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license17_5_sign-N
+2021-01-06 17:13:19 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:13:19 -  - TIME LoadLangsUpdates(request) 0.311 sec
+2021-01-06 17:13:19 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:13:19 - S - STEP
+2021-01-06 17:13:19 - LLU01 - LoadLangsUpdates-Step
+2021-01-06 17:13:19 -  - exec CUpdateClient::LoadLangsUpdates
+2021-01-06 17:13:20 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:13:20 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:13:20 -  - loadLangFileBx
+2021-01-06 17:13:21 - DOWNLOAD - Time - 1.005117893219 sec
+2021-01-06 17:13:21 - U - RETURN
+2021-01-06 17:13:21 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:13:53 -  - TIME UnGzipArchive 32.336 sec
+2021-01-06 17:15:10 -  - TIME UpdateLangs 76.565 sec
+2021-01-06 17:15:10 - UPD_SUCCESS - Updated: Испанский (Латинская Америка)
+2021-01-06 17:15:10 -  - exec CUpdateClient::LoadLangsUpdates
+2021-01-06 17:15:10 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:15:10 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.5.50&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_en=&bitl_la=20201208&bitl_ru=&bitl_ua=20190307&requested_langs=ua%2Cla%2Cbr%2Cfr%2Cpl&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license17_5_sign-N
+2021-01-06 17:15:10 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:15:11 -  - TIME LoadLangsUpdates(request) 0.369 sec
+2021-01-06 17:15:11 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:15:11 - S - STEP
+2021-01-06 17:15:11 - LLU01 - LoadLangsUpdates-Step
+2021-01-06 17:15:11 -  - exec CUpdateClient::LoadLangsUpdates
+2021-01-06 17:15:11 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:15:11 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:15:11 -  - loadLangFileBx
+2021-01-06 17:15:12 - DOWNLOAD - Time - 0.8105001449585 sec
+2021-01-06 17:15:12 - U - RETURN
+2021-01-06 17:15:12 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:15:40 -  - TIME UnGzipArchive 27.532 sec
+2021-01-06 17:16:52 -  - TIME UpdateLangs 72.599 sec
+2021-01-06 17:16:52 - UPD_SUCCESS - Updated: Португальский (Бразилия)
+2021-01-06 17:16:53 -  - exec CUpdateClient::LoadLangsUpdates
+2021-01-06 17:16:53 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:16:53 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.5.50&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_br=20201208&bitl_en=&bitl_la=20201208&bitl_ru=&bitl_ua=20190307&requested_langs=ua%2Cla%2Cbr%2Cfr%2Cpl&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license17_5_sign-N
+2021-01-06 17:16:53 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:16:54 -  - TIME LoadLangsUpdates(request) 0.296 sec
+2021-01-06 17:16:54 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:16:54 - S - STEP
+2021-01-06 17:16:54 - LLU01 - LoadLangsUpdates-Step
+2021-01-06 17:16:54 -  - exec CUpdateClient::LoadLangsUpdates
+2021-01-06 17:16:54 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:16:54 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:16:54 -  - loadLangFileBx
+2021-01-06 17:16:55 - DOWNLOAD - Time - 1.0786921977997 sec
+2021-01-06 17:16:55 - U - RETURN
+2021-01-06 17:16:55 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:17:30 -  - TIME UnGzipArchive 34.374 sec
+2021-01-06 17:19:07 -  - TIME UpdateLangs 97.039 sec
+2021-01-06 17:19:07 - UPD_SUCCESS - Updated: Французский (Канада)
+2021-01-06 17:19:08 -  - exec CUpdateClient::LoadLangsUpdates
+2021-01-06 17:19:08 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:19:08 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.5.50&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_br=20201208&bitl_en=&bitl_fr=20201208&bitl_la=20201208&bitl_ru=&bitl_ua=20190307&requested_langs=ua%2Cla%2Cbr%2Cfr%2Cpl&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license17_5_sign-N
+2021-01-06 17:19:08 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:19:09 -  - TIME LoadLangsUpdates(request) 1.064 sec
+2021-01-06 17:19:09 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:19:09 - S - STEP
+2021-01-06 17:19:09 - LLU01 - LoadLangsUpdates-Step
+2021-01-06 17:19:10 -  - exec CUpdateClient::LoadLangsUpdates
+2021-01-06 17:19:10 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:19:10 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:19:10 -  - loadLangFileBx
+2021-01-06 17:19:11 - DOWNLOAD - Time - 0.95416593551636 sec
+2021-01-06 17:19:11 - U - RETURN
+2021-01-06 17:19:11 -  - exec CUpdateClient::UnGzipArchive
+2021-01-06 17:19:45 -  - TIME UnGzipArchive 34.632 sec
+2021-01-06 17:20:54 -  - TIME UpdateLangs 68.743 sec
+2021-01-06 17:20:54 - UPD_SUCCESS - Updated: Польский
+2021-01-06 17:20:56 -  - exec CUpdateClient::LoadLangsUpdates
+2021-01-06 17:20:56 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:20:56 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.5.50&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_br=20201208&bitl_en=&bitl_fr=20201208&bitl_la=20201208&bitl_pl=20201208&bitl_ru=&bitl_ua=20190307&requested_langs=ua%2Cla%2Cbr%2Cfr%2Cpl&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license17_5_sign-N
+2021-01-06 17:20:56 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:21:01 -  - TIME LoadLangsUpdates(request) 4.933 sec
+2021-01-06 17:21:01 -  - exec CUpdateClient::ParseServerData
+2021-01-06 17:21:01 - STEP - Finish - NOUPDATES
+2021-01-06 17:21:01 - STEP - Finish - NOUPDATES
+2021-01-06 17:25:43 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609943142/mcart.xls/updater9.1.0.php': CopyFiles(install/modules, modules)
+2021-01-06 17:26:02 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609943148/mcart.xls/updater10.0.0.php': CopyFiles(, /bitrix/modules/mcart.xls/)
+2021-01-06 17:26:44 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609943203/mcart.xls/updater10.0.1.php': CopyFiles(, /bitrix/modules/mcart.xls/)
+2021-01-06 17:26:54 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609943214/mcart.xls/updater10.0.4.php': CopyFiles(, /bitrix/modules/mcart.xls/)
+2021-01-06 17:28:52 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609943331/mcart.xls/updater10.1.0.php': CopyFiles(install/modules, modules)
+2021-01-06 17:40:30 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 17:40:30 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 17:40:30 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.5.50&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_br=20201208&bitl_en=&bitl_fr=20201208&bitl_la=20201208&bitl_pl=20201208&bitl_ru=&bitl_ua=20190307&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license17_5_sign-N
+2021-01-06 17:40:30 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 17:40:31 -  - TIME GetUpdatesList(request) 0.372 sec
+2021-01-06 17:40:31 -  - exec CUpdateClient::ParseServerData
+2021-01-06 18:03:35 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609945414/mcart.xls/updater9.1.0.php': CopyFiles(install/modules, modules)
+2021-01-06 18:03:53 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609945419/mcart.xls/updater10.0.0.php': CopyFiles(, /bitrix/modules/mcart.xls/)
+2021-01-06 18:04:25 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609945465/mcart.xls/updater10.0.1.php': CopyFiles(, /bitrix/modules/mcart.xls/)
+2021-01-06 18:04:34 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609945474/mcart.xls/updater10.0.4.php': CopyFiles(, /bitrix/modules/mcart.xls/)
+2021-01-06 18:24:14 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 18:24:14 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 18:24:14 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.5.50&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_br=20201208&bitl_en=&bitl_fr=20201208&bitl_la=20201208&bitl_pl=20201208&bitl_ru=&bitl_ua=20190307&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license17_5_sign-N
+2021-01-06 18:24:14 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 18:24:14 -  - TIME GetUpdatesList(request) 0.378 sec
+2021-01-06 18:24:14 -  - exec CUpdateClient::ParseServerData
+2021-01-06 18:27:01 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609946821/twim.recaptchafree/updater0.0.5.php': CopyFiles(install/js, js)
+2021-01-06 18:27:09 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609946829/twim.recaptchafree/updater0.0.9.php': CopyFiles(install/js, js)
+2021-01-06 18:27:13 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609946833/twim.recaptchafree/updater0.1.0.php': CopyFiles(install/js, js)
+2021-01-06 18:27:17 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609946836/twim.recaptchafree/updater0.1.1.php': CopyFiles(install/js, js)
+2021-01-06 18:39:43 -  - exec CUpdateClient::GetUpdatesList
+2021-01-06 18:39:43 -  - exec CUpdateClient::CollectRequestData
+2021-01-06 18:39:43 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.5.50&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_br=20201208&bitl_en=&bitl_fr=20201208&bitl_la=20201208&bitl_pl=20201208&bitl_ru=&bitl_ua=20190307&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license17_5_sign-N
+2021-01-06 18:39:43 -  - exec CUpdateClient::GetHTTPPage
+2021-01-06 18:39:44 -  - TIME GetUpdatesList(request) 1.16 sec
+2021-01-06 18:39:44 -  - exec CUpdateClient::ParseServerData
+2021-01-06 18:50:02 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609948202/mcart.xls/updater9.1.0.php': CopyFiles(install/modules, modules)
+2021-01-06 18:50:23 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609948208/mcart.xls/updater10.0.0.php': CopyFiles(, /bitrix/modules/mcart.xls/)
+2021-01-06 18:51:00 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609948260/mcart.xls/updater10.0.1.php': CopyFiles(, /bitrix/modules/mcart.xls/)
+2021-01-06 18:51:09 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1609948269/mcart.xls/updater10.0.4.php': CopyFiles(, /bitrix/modules/mcart.xls/)
+2021-01-08 12:26:15 -  - exec CUpdateClient::GetUpdatesList
+2021-01-08 12:26:15 -  - exec CUpdateClient::CollectRequestData
+2021-01-08 12:26:16 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.5.50&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_br=20201208&bitl_en=&bitl_fr=20201208&bitl_la=20201208&bitl_pl=20201208&bitl_ru=&bitl_ua=20190307&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license17_5_sign-N
+2021-01-08 12:26:16 -  - exec CUpdateClient::GetHTTPPage
+2021-01-08 12:26:17 -  - TIME GetUpdatesList(request) 1.313 sec
+2021-01-08 12:26:17 -  - exec CUpdateClient::ParseServerData
+2021-01-08 12:26:18 -  - exec CUpdateClient::GetUpdatesList
+2021-01-08 12:26:18 -  - exec CUpdateClient::CollectRequestData
+2021-01-08 12:26:18 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.200.260&VERSION=20.200.550&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.com&CHHB=bitrix.com&CSAB=127.0.0.1&SUID=b03a58e357ce2d7b8da6071990dfa292&CANGZIP=Y&CLIENT_PHPVER=7.4.5&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.200.550&bitm_b24connector=20.5.0&bitm_bitrixcloud=20.5.0&bitm_clouds=20.200.0&bitm_fileman=20.5.0&bitm_highloadblock=20.100.0&bitm_iblock=20.0.1200&bitm_landing=20.5.50&bitm_messageservice=20.100.0&bitm_perfmon=20.100.0&bitm_rest=20.50.200&bitm_search=20.5.0&bitm_seo=20.0.500&bitm_socialservices=20.0.500&bitm_translate=20.100.0&bitm_ui=20.200.0&bitl_br=20201208&bitl_en=&bitl_fr=20201208&bitl_la=20201208&bitl_pl=20201208&bitl_ru=&bitl_ua=20190307&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license17_5_sign-N
+2021-01-08 12:26:18 -  - exec CUpdateClient::GetHTTPPage
+2021-01-08 12:26:19 -  - TIME GetUpdatesList(request) 0.327 sec
+2021-01-08 12:26:19 -  - exec CUpdateClient::ParseServerData

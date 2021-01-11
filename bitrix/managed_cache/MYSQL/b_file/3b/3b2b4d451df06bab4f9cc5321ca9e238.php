@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001610120104';
+$dateexpire = '001610123704';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{i:200;a:14:{s:2:"ID";s:3:"200";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2021-01-08 18:34:25.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:9:"mcart.xls";s:6:"HEIGHT";s:1:"0";s:5:"WIDTH";s:1:"0";s:9:"FILE_SIZE";s:5:"34002";s:12:"CONTENT_TYPE";s:65:"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";s:6:"SUBDIR";s:13:"mcart.xls/805";s:9:"FILE_NAME";s:21:"price_02.03.2020.xlsx";s:13:"ORIGINAL_NAME";s:21:"price_02.03.2020.xlsx";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"f2f93cbf3d66a83729272e68eec35b80";s:4:"~src";s:0:"";}i:201;a:14:{s:2:"ID";s:3:"201";s:11:"TIMESTAMP_X";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2021-01-08 18:35:04.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:9:"MODULE_ID";s:9:"mcart.xls";s:6:"HEIGHT";s:1:"0";s:5:"WIDTH";s:1:"0";s:9:"FILE_SIZE";s:5:"34008";s:12:"CONTENT_TYPE";s:65:"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";s:6:"SUBDIR";s:13:"mcart.xls/d1d";s:9:"FILE_NAME";s:21:"price_02.03.2020.xlsx";s:13:"ORIGINAL_NAME";s:21:"price_02.03.2020.xlsx";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"b7f0769dc2c17c956496bde188c3a658";s:4:"~src";s:0:"";}}}';
+return true;
+?>
