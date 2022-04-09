@@ -12,7 +12,7 @@
     "main.d6ff8425.js.map": "marvel/static/js/main.d6ff8425.js.map"
   },
   "entrypoints": [
-    "marvel/static/css/main.329f0f3b.css",
-    "marvel/static/js/main.d6ff8425.js"
+    "static/css/main.329f0f3b.css",
+    "static/js/main.d6ff8425.js"
   ]
 }
